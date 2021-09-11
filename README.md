@@ -28,7 +28,7 @@ Operating System: Windows 10
 
 **Usage Examples**
 
-![markdown-image](MercLib1.png)
+![markdown-image](MercLib1.PNG)
 Picture of the google colab website, showing how to upload files.
 
 **Contributors**
